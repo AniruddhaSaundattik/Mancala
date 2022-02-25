@@ -31,7 +31,6 @@ public class TurnController {
     @Autowired
     TurnService turnService;
 
-    @Qualifier("turnDtoValidator")
     @Autowired
     Validator turnDtoValidator;
 
