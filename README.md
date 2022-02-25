@@ -5,7 +5,7 @@ Each player takes turn to move the stones.
 
 ################################Technology stack##################
 
-* Java 17
+* Java 1.8
 * Spring Boot 2.x
 * Swagger 3
 * Thymeleaf
